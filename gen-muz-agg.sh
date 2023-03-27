@@ -3,7 +3,7 @@
 echo "enter   1  for SALAT client"
 echo "enter   2  for Famyli client"
 
-read varVersion
+read -r varVersion
 
 case $varVersion in
 	"1" )
