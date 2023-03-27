@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 echo "enter   1  for SALAT client"
 echo "enter   2  for Famyli client"
